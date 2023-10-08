@@ -14,6 +14,10 @@
 {
 "name": "BhagvadGita",
 "Author": "Vyasa",
-}
+},
+  {
+    "name" : "Chronicles Of Narnia",
+    "Author" : "C. S. Lewis"
+  }
 
 ]
